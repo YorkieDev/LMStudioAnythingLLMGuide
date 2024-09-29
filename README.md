@@ -8,7 +8,7 @@ Easily run powerful language models locally with LM Studio and AnythingLLM.
 ## Prerequisites
 
 - [LM Studio](https://lmstudio.ai) installed
-- [AnythingLLM](https://github.com/Adolher/AnythingLLM) installed
+- [AnythingLLM](https://anythingllm.com/) installed
 - Sufficient RAM and processing power for running large language models
 
 ## Quick Setup
